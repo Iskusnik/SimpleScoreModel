@@ -1,0 +1,11 @@
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.exe
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.deps.json
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.runtimeconfig.json
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.runtimeconfig.dev.json
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.dll
+D:\vs projects\ScoreModelImplementation\bin\Debug\netcoreapp3.0\ScoreModelImplementation.pdb
+D:\vs projects\ScoreModelImplementation\obj\Debug\netcoreapp3.0\ScoreModelImplementation.csprojAssemblyReference.cache
+D:\vs projects\ScoreModelImplementation\obj\Debug\netcoreapp3.0\ScoreModelImplementation.AssemblyInfoInputs.cache
+D:\vs projects\ScoreModelImplementation\obj\Debug\netcoreapp3.0\ScoreModelImplementation.AssemblyInfo.cs
+D:\vs projects\ScoreModelImplementation\obj\Debug\netcoreapp3.0\ScoreModelImplementation.dll
+D:\vs projects\ScoreModelImplementation\obj\Debug\netcoreapp3.0\ScoreModelImplementation.pdb
