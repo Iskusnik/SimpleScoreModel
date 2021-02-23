@@ -29,6 +29,10 @@ namespace ScoreModelImplementation
             Console.WriteLine(testModel.ReturnChoices(simpleCheck)); //Везде второй вариант
 
 
+            int[] simpleCheckZero = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+            Console.WriteLine(testModel.ReturnScore(simpleCheckZero)); 
+            Console.WriteLine(testModel.ReturnChoices(simpleCheckZero)); //Везде первый вариант 
+            //Везде второй вариант
         }
     }
 }

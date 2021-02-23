@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs projects\\ScoreModelImplementation\\ScoreModelImplementation.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\SimpleScoreModel\\ScoreModelImplementation.csproj": {}
   },
   "projects": {
-    "D:\\vs projects\\ScoreModelImplementation\\ScoreModelImplementation.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\SimpleScoreModel\\ScoreModelImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs projects\\ScoreModelImplementation\\ScoreModelImplementation.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\SimpleScoreModel\\ScoreModelImplementation.csproj",
         "projectName": "ScoreModelImplementation",
-        "projectPath": "D:\\vs projects\\ScoreModelImplementation\\ScoreModelImplementation.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\SimpleScoreModel\\ScoreModelImplementation.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\vs projects\\ScoreModelImplementation\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\SimpleScoreModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
